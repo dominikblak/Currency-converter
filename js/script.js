@@ -3,7 +3,6 @@
     const euroRate = 4.47;
     const usdRate = 3.68;
     const gbpRate = 5.26;
-    const isaRate = 2.11;
 
     switch (choiceValue) {
       case "EUR":
@@ -12,8 +11,6 @@
         return amountValue / usdRate;
       case "GBP":
         return amountValue / gbpRate;
-      case "ISA":
-        return amountValue / isaRate;
     }
   };
   const updateResultText = (amountValue, result, choiceValue) => {
