@@ -16,4 +16,6 @@ HTML,CSS,JS :
 ##### Author
 Dominik Blak
 
-How to reach me : ✉️ bldominikak@gmail.com 👪 https://www.linkedin.com/in/dominik-blak-060416176/
+How to reach me : 
+✉️ bldominikak@gmail.com 
+👪 https://www.linkedin.com/in/dominik-blak-060416176/
