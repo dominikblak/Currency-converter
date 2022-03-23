@@ -4,7 +4,7 @@
 Dominik Blak
 
 ## 🚀 Demo :
-[Currency-converter](https://dominikblak.github.io/Currency-converter-JS/)
+[Currency-converter](https://dominikblak.github.io/Currency-converter-JS/src/)
 
 ### 📖 Description :
 Currency converter - Currency converter from PLN to EUR, USD, GBP.
