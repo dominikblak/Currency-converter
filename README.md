@@ -15,7 +15,7 @@ Currency converter - Currency converter from PLN to EUR, USD, GBP.
 - HTML
 - CSS
 - JavaScript (ES6+ features)
-- 
+
 #### 📚 Methodology :
 - BEM
 
